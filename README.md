@@ -60,7 +60,7 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/fei5seven/shell/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/xiaolangl/shell/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
 
 ---
